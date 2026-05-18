@@ -89,7 +89,7 @@ On the **Settings** page, use **Start simulation** to stream mock detections int
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/visionguard-ai.git
+git clone https://github.com/Taykuth/visionguard-ai.git
 cd visionguard-ai
 npm install
 ```
