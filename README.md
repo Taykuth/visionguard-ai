@@ -1,6 +1,5 @@
 # VisionGuard AI
 
-[![Live Demo](https://img.shields.io/badge/demo-live-emerald?style=flat-square)](https://3000-in4y5434vnqcnosolqsf2.app.cto.new/)
 [![Stack](https://img.shields.io/badge/stack-TanStack%20Start%20%2B%20Convex-8b5cf6?style=flat-square)](https://docs.convex.dev/)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -8,18 +7,9 @@
 
 > **Note:** This repository is a **demonstration UI** with simulated detections. It is not a production ML inference pipeline.
 
-## Live demo
+## Demo
 
-**[Open the live app →](https://3000-in4y5434vnqcnosolqsf2.app.cto.new/)**
-
-| Page | URL |
-|------|-----|
-| Landing | [/](https://3000-in4y5434vnqcnosolqsf2.app.cto.new/) |
-| Dashboard | [/dashboard](https://3000-in4y5434vnqcnosolqsf2.app.cto.new/dashboard) |
-| Analytics | [/analytics](https://3000-in4y5434vnqcnosolqsf2.app.cto.new/analytics) |
-| Settings | [/settings](https://3000-in4y5434vnqcnosolqsf2.app.cto.new/settings) |
-
-On the **Settings** page, use **Start simulation** to stream mock detections into the dashboard event log.
+The hosted preview this README used to link to has expired, so there is no live demo right now. Run it locally (see [Getting started](#getting-started)) and use **Start simulation** on the **Settings** page to stream mock detections into the dashboard event log. The screenshots below show the UI.
 
 ## Screenshots
 
